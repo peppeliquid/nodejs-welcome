@@ -9,7 +9,7 @@ var healthy=true;
 
 
 app.get('/', function (req, res) {
-  res.send('Ciao Dev, bridged by Jenkins :)  v.3.51 : hostname del pod: ' + os.hostname() + '\n');
+  res.send('Ciao Dev, bridged by Jenkins :)  v.3.71 : hostname del pod: ' + os.hostname() + '\n');
 });
 
 
